@@ -1,0 +1,2 @@
+# GenerateVueDomID
+给vue文件的dom元素生成id属性并编号
